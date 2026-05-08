@@ -1,3 +1,8 @@
+-=(Apple-IIgs_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Apple IIgs](https://en.wikipedia.org/wiki/Apple_IIGS) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 ## Description
